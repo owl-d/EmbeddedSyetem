@@ -82,26 +82,26 @@ void* led_state(void* data)
 
         else if (mode == 1){
             printf("led blink slow\n");
-			if(led_state) { //if led_state=1, led on
-				wbuf[0]=1;
-				write(fd_led,wbuf,1);
-			} else {        //if led_state=0, led off
+			if(wbuf[0]) { //if led_state=1, led on
 				wbuf[0]=0;
 				write(fd_led,wbuf,1);
+			} else {        //if led_state=0, led off
+				wbuf[0]=1;
+				write(fd_led,wbuf,1);
 			}
-			sleep(1);
+			sleep(2);
         }
 
         else if (mode == 2){
             printf("led blink fast\n");
-			if(led_state) { //if led_state=1, led on
-				wbuf[0]=1;
-				write(fd_led,wbuf,1);
-			} else {        //if led_state=0, led off
+			if(wbuf[0]) { //if led_state=1, led on
 				wbuf[0]=0;
 				write(fd_led,wbuf,1);
+			} else {        //if led_state=0, led off
+				wbuf[0]=1;
+				write(fd_led,wbuf,1);
 			}
-			usleep(500);
+			sleep(1);
         }
     }
 	close(fd_led);
