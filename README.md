@@ -1,2 +1,2 @@
-# ImbeddedSyetem
-2022-1 Lecture ImbeddedSystem
+# EmbeddedSyetem
+2022-1 Lecture EmbeddedSystem
