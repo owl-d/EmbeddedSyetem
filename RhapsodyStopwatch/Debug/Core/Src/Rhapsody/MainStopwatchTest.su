@@ -1,0 +1,3 @@
+MainStopwatchTest.c:15:6:StopwatchTest_Init	8	static
+MainStopwatchTest.c:20:6:StopwatchTest_Cleanup	8	static
+MainStopwatchTest.c:24:5:Cortex_main	40	static

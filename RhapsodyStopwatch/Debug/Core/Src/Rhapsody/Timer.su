@@ -1,0 +1,14 @@
+Timer.c:45:13:print	16	static
+Timer.c:52:13:reset	16	static
+Timer.c:60:13:tick	16	static
+Timer.c:70:6:Timer_Init	16	static
+Timer.c:85:6:Timer_Cleanup	16	static
+Timer.c:90:19:Timer_getItsDisplay	16	static
+Timer.c:94:6:Timer_setItsDisplay	16	static
+Timer.c:98:12:Timer_startBehavior	24	static
+Timer.c:104:13:initStatechart	16	static
+Timer.c:110:13:cleanUpRelations	16	static
+Timer.c:117:20:Timer_running_takeEvent	24	static
+Timer.c:143:13:rootState_entDef	24	static
+Timer.c:151:27:rootState_dispatchEvent	32	static
+Timer.c:215:13:running_entDef	24	static

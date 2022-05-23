@@ -1,0 +1,9 @@
+PushSwitch.c:32:6:PushSwitch_Init	16	static
+PushSwitch.c:45:6:PushSwitch_Cleanup	16	static
+PushSwitch.c:50:18:PushSwitch_getItsButton	16	static
+PushSwitch.c:54:6:PushSwitch_setItsButton	16	static
+PushSwitch.c:58:12:PushSwitch_startBehavior	24	static
+PushSwitch.c:64:13:initStatechart	16	static
+PushSwitch.c:69:13:cleanUpRelations	16	static
+PushSwitch.c:76:13:rootState_entDef	40	static
+PushSwitch.c:91:27:rootState_dispatchEvent	40	static
