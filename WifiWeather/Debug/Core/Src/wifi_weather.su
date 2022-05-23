@@ -1,0 +1,4 @@
+wifi_weather.c:8:6:my_itoa	32	static
+wifi_weather.c:19:6:WifiSetup	424	static
+wifi_weather.c:50:6:OpenWeather	432	static
+wifi_weather.c:74:6:WifiWeather	2744	static
