@@ -1,0 +1,71 @@
+I-Logix-RPY-Archive version 8.5.2 * 2030848
+
+- m_fileModifyTime = { IRPYRawContainer 
+	- size = 18;
+	- value = "StopwatchTest/Microsoft/Button.c" 5.22.2022::6:26:52
+	"StopwatchTest/Microsoft/Button.h" 5.22.2022::6:26:52
+	"StopwatchTest/Microsoft/Display.c" 5.22.2022::6:26:52
+	"StopwatchTest/Microsoft/Display.h" 5.22.2022::6:26:52
+	"StopwatchTest/Microsoft/StopwatchPkg.c" 5.22.2022::6:26:52
+	"StopwatchTest/Microsoft/StopwatchPkg.h" 5.22.2022::6:26:52
+	"StopwatchTest/Microsoft/TImer.c" 5.22.2022::6:26:52
+	"StopwatchTest/Microsoft/TImer.h" 5.22.2022::6:26:52
+	"StopwatchTest\\Microsoft\\Button.c" 5.22.2022::7:3:0
+	"StopwatchTest\\Microsoft\\Button.h" 5.22.2022::7:3:0
+	"StopwatchTest\\Microsoft\\Display.c" 5.22.2022::6:27:38
+	"StopwatchTest\\Microsoft\\Display.h" 5.22.2022::6:27:38
+	"StopwatchTest\\Microsoft\\StopwatchPkg.c" 5.22.2022::7:3:0
+	"StopwatchTest\\Microsoft\\StopwatchPkg.h" 5.22.2022::7:3:0
+	"StopwatchTest\\Microsoft\\TImer.c" 5.22.2022::6:27:38
+	"StopwatchTest\\Microsoft\\TImer.h" 5.22.2022::6:27:38
+	"StopwatchTest\\Microsoft\\Timer.c" 5.22.2022::7:3:0
+	"StopwatchTest\\Microsoft\\Timer.h" 5.22.2022::7:3:0
+	
+}
+- size = 5;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "StopwatchPkg.sbs";
+	- _subsystem = "StopwatchPkg";
+	- _class = "TopLevel";
+	- _name = "Button";
+	- _id = GUID 4c783d24-5fac-4243-bca3-0e22515c7395;
+}
+- genTime = 5.22.2022::7:3:0;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "StopwatchPkg.sbs";
+	- _subsystem = "StopwatchPkg";
+	- _class = "TopLevel";
+	- _name = "Timer";
+	- _id = GUID ddd93239-9645-4d5a-b7bf-c08398a2cb44;
+}
+- genTime = 5.22.2022::7:3:0;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "StopwatchPkg.sbs";
+	- _subsystem = "StopwatchPkg";
+	- _class = "TopLevel";
+	- _name = "Display";
+	- _id = GUID 946ce52e-0754-4c58-9de3-6b844ceab228;
+}
+- genTime = 5.22.2022::6:27:38;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = "StopwatchPkg.sbs";
+	- _subsystem = "";
+	- _class = "";
+	- _name = "StopwatchPkg";
+	- _id = GUID 96ebdc78-b087-4f58-8e45-7e394313e113;
+}
+- genTime = 5.22.2022::7:3:0;
+- hElement = { IHandle 
+	- _m2Class = "ICodeGenConfigInfo";
+	- _filename = "StopwatchTest.cmp";
+	- _subsystem = "";
+	- _class = "";
+	- _name = "StopwatchTest\\Microsoft";
+	- _id = GUID e26fec61-1bfb-4623-8691-d7537961f6cc;
+}
+- genTime = 5.22.2022::7:8:39;
+
