@@ -1,0 +1,1 @@
+cmd_/home/pi/work/gpio_button_right/gpio_button_right_driver.ko := ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o /home/pi/work/gpio_button_right/gpio_button_right_driver.ko /home/pi/work/gpio_button_right/gpio_button_right_driver.o /home/pi/work/gpio_button_right/gpio_button_right_driver.mod.o;  true
