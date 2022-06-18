@@ -16,8 +16,8 @@ STD_ERROR_HANDLE   = -12
 
 std_out_handle = ctypes.windll.kernel32.GetStdHandle(STD_OUTPUT_HANDLE)
 
-HOST = '192.168.244.1'      # 서버
-PORT = 8888                 # 포트
+HOST = 'xxx.xxx.xxx.x'      # 서버
+PORT = xxxx                 # 포트
 
 app = QApplication(sys.argv)
 hw = Simulator()
