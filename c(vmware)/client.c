@@ -7,8 +7,8 @@
 #include <pthread.h>
 
 #define MAXLINE 64
-#define HOST "192.168.244.1"
-#define PORT 8888
+#define HOST "xxx.xxx.xxx.x"
+#define PORT xxxx
 
 struct sockaddr_in serveraddr;
 int client_len;
