@@ -1,2 +1,2 @@
 # EmbeddedSyetem
-2022-1 Lecture EmbeddedSystem
+2022-1 Lecture EmbeddedSystem Term Project
